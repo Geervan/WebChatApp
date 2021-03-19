@@ -1,2 +1,2 @@
 # WebChatApp
-[Live Demo]{https://geervan-chatapp.herokuapp.com/}
+[Live Demo](https://geervan-chatapp.herokuapp.com/)
